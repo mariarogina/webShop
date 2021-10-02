@@ -12,7 +12,7 @@ const Contact = () => {
         </div>
         <div className="row">
           <div className="col-md-5 d-flex justify-content-center">
-            <img src="/assets/img/message.png" alt="Contact" height="400px" />
+            <img src="./assets/img/message.png" alt="Contact" height="400px" />
           </div>
           <div className="col-md-6">
             <form>

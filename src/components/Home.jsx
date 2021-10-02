@@ -50,7 +50,7 @@ const Home = () => {
           <div className="carousel-item">
             <img
               className="d-block w-100"
-              src="/assets/img/main/pic2.png"
+              src="./assets/img/main/pic2.png"
               alt="Second goods"
               height="600px"
             />
@@ -58,7 +58,7 @@ const Home = () => {
           <div className="carousel-item">
             <img
               className="d-block w-100"
-              src="/assets/img/main/pic3.png"
+              src="./assets/img/main/pic3.png"
               alt="Third goods"
               height="600px"
             />
@@ -66,7 +66,7 @@ const Home = () => {
           <div className="carousel-item">
             <img
               className="d-block w-100"
-              src="/assets/img/main/pic4.png"
+              src="./assets/img/main/pic4.png"
               alt="Fourth goods"
               height="600px"
             />
