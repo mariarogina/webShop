@@ -42,7 +42,7 @@ const Home = () => {
           <div className="carousel-item active">
             <img
               className="d-block w-100"
-              src="/assets/img/main/pic1.png"
+              src="https://cdn.pixabay.com/photo/2017/12/17/12/01/crystal-3024105_960_720.jpg"
               alt="First goods"
               height="600px"
             />
@@ -50,7 +50,7 @@ const Home = () => {
           <div className="carousel-item">
             <img
               className="d-block w-100"
-              src="./assets/img/main/pic2.png"
+              src="https://cdn.pixabay.com/photo/2019/07/27/21/42/t-shirt-4367577_960_720.jpg"
               alt="Second goods"
               height="600px"
             />
@@ -58,7 +58,7 @@ const Home = () => {
           <div className="carousel-item">
             <img
               className="d-block w-100"
-              src="./assets/img/main/pic3.png"
+              src="https://cdn.pixabay.com/photo/2016/11/18/19/39/backpack-1836594_960_720.jpg"
               alt="Third goods"
               height="600px"
             />
@@ -66,7 +66,7 @@ const Home = () => {
           <div className="carousel-item">
             <img
               className="d-block w-100"
-              src="./assets/img/main/pic4.png"
+              src="https://cdn.pixabay.com/photo/2015/04/20/13/40/person-731476_960_720.jpg"
               alt="Fourth goods"
               height="600px"
             />
